@@ -43,7 +43,7 @@ Available distributions in format `proot-distro alias : description`:
 * `ubuntu`: Ubuntu (24.04)
 * `void`: Void Linux
 *  `armbian`: Armbian (Work in Progress - AArch64 only)
-* `MX Linux`: MX Linux  (Work in Progress - AArch64 only)
+* `MX-Linux`: MX Linux  (Work in Progress - AArch64 only)
 
 Everything is provided as-is. Root file system tarballs are generated from
 content provided by repositories of selected distributions with no modification
