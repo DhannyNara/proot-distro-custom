@@ -29,7 +29,8 @@ Available distributions in format `proot-distro alias : description`:
 * `ubuntu`: Ubuntu (24.04)
 * `void`: Void Linux
 
-Available distributions in format `proot-distro-custom alias : description`: 
+Available distributions in format 
+`proot-distro-custom alias : description`: 
 
 *  `armbian`: Armbian (Work in Progress - AArch64 only)
 * `MX-Linux`: MX Linux  (Work in Progress - AArch64 only)
