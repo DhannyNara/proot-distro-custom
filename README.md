@@ -1,4 +1,5 @@
-please read from original source [proot-distro]: <https://github.com/termux/proot-distro>
+please read from original source: <https://github.com/termux/proot-distro>
+
 (this copy readme still using from original fork. i will editing if had releases file)
 
 
