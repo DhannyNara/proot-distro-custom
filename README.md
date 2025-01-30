@@ -1,6 +1,12 @@
 (this copy readme still using from original fork. i will editing if had releases file)
+
+
 incoming: 
+
+
 armbian (ubuntu based)  # WIP
+
+
 MX Linux (rpi debian based) # WIP
 
 # PRoot Distro
