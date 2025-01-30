@@ -1,6 +1,6 @@
 please read from original source: <https://github.com/termux/proot-distro>
 
-(this copy readme still using from original fork. i will editing if had releases file)
+(this copy still using from original fork. i will update if had releases file)
 
 
 incoming: 
